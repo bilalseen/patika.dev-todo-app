@@ -1,6 +1,6 @@
 # patika.dev ToDo App
 
-## This project is patika.dev homework
+## This project is a patika.dev homework
 I made todo-app in this project.
 
 Images from the project.
